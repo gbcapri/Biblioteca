@@ -1,3 +1,4 @@
 # Biblioteca
 tem livros
-mas tem que adicionar um por um
+
+mas tem que adicionar cada um
